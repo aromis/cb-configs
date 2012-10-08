@@ -61,7 +61,7 @@
 		    <item label="Archive Manager">
 				<action name="Execute">
 					<command>
-						file-roller
+						xarchiver
 					</command>
 				</action>
 			</item>

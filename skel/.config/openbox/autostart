@@ -65,6 +65,9 @@ xscreensaver -no-splash &
 ## Adjust the values according to your preferances.
 xset r rate 250 25 &
 
+## Turn on/off system beep
+xset b off &
+
 ## The following command runs hacks and fixes for #! LiveCD sessions.
 ## Safe to delete after installation.
 cb-cowpowers &

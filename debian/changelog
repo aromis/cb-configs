@@ -1,3 +1,12 @@
+cb-configs (20121008-1) unstable; urgency=low
+
+  * .config/openbox/autostart:
+    - turn off system beep with 'xset b off'.
+  * .config/openbox/menu.xml:
+    - file roller to squeeze.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 08 Oct 2012 13:07:31 +0100
+
 cb-configs (20120927-3) unstable; urgency=low
 
   * Remove bash files.
