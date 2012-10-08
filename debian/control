@@ -1,0 +1,13 @@
+Source: cb-configs
+Section: misc
+Priority: extra
+Maintainer: Philip Newborough <corenominal@corenominal.org>
+Build-Depends: debhelper (>= 7.0.0)
+Standards-Version: 3.9.3
+Homepage: http://crunchbang.org/
+
+Package: cb-configs
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: config files for CrunchBang Linux
+ Various configuration files for use with CrunchBang Linux.

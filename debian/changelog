@@ -1,0 +1,17 @@
+cb-configs (20120927-3) unstable; urgency=low
+
+  * Remove bash files.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Thu, 27 Sep 2012 11:58:20 +0100
+
+cb-configs (20120927-2) unstable; urgency=low
+
+  * Adjust Openbox autostart for compton watch deamon.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Thu, 27 Sep 2012 09:42:30 +0100
+
+cb-configs (20120927-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Thu, 27 Sep 2012 07:40:11 +0100
