@@ -1,3 +1,10 @@
+cb-configs (20121009-1) unstable; urgency=low
+
+  * .config/openbox/menu.xml:
+    - xarchiver to file roller.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Tue, 09 Oct 2012 07:32:48 +0100
+
 cb-configs (20121008-1) unstable; urgency=low
 
   * .config/openbox/autostart:
