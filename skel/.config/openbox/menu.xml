@@ -45,7 +45,7 @@
 		<item label="Media Player">
 			<action name="Execute">
 				<command>
-					gnome-mplayer
+					vlc
 				</command>
 			</action>
 		</item>
@@ -157,7 +157,7 @@
 		    <item label="GNOME MPlayer">
 				<action name="Execute">
 					<command>
-						gnome-mplayer
+						vlc
 					</command>
 				</action>
 			</item>
