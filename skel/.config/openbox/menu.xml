@@ -437,6 +437,13 @@
 				    </action>
 			    </item>
 			</menu>
+			<menu label="Notifications">
+				<item label="settings">
+					<action name="Execute">
+						<command>xfce4-notifyd-config</command>
+					</action>
+				</item>
+			</menu>
 			<item label="Edit Default Applications">
 				<action name="Execute">
 					<command>
