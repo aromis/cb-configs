@@ -154,7 +154,7 @@
 			</menu>
 		</menu>
 		<menu id="multimedia" label="Multimedia">
-		    <item label="GNOME MPlayer">
+		    <item label="VLC Media Player">
 				<action name="Execute">
 					<command>
 						vlc
