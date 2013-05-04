@@ -3,7 +3,7 @@ Section: misc
 Priority: extra
 Maintainer: Philip Newborough <corenominal@corenominal.org>
 Build-Depends: debhelper (>= 7.0.0)
-Standards-Version: 3.9.3
+Standards-Version: 3.9.4
 Homepage: http://crunchbang.org/
 
 Package: cb-configs

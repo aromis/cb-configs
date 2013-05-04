@@ -1,3 +1,12 @@
+cb-configs (20130504-1) unstable; urgency=low
+
+  * Adjust icon settings.
+  * Adjust notification settings and add menu item.
+  * Fix VLC label.
+  * Bump standards versions.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Sat, 04 May 2013 12:06:15 +0100
+
 cb-configs (20130110-1) unstable; urgency=low
 
   * Adjust conky startup within Openbox autostart.
