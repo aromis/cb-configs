@@ -437,7 +437,7 @@
 				    </action>
 			    </item>
 			</menu>
-			<menu label="Notifications">
+			<menu id="Notifications" label="Notifications">
 				<item label="settings">
 					<action name="Execute">
 						<command>xfce4-notifyd-config</command>

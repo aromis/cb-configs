@@ -1,3 +1,9 @@
+cb-configs (20130504-2) unstable; urgency=low
+
+  * Fix missing id attribute for Openbox notifications submenu.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Sat, 04 May 2013 19:57:28 +0100
+
 cb-configs (20130504-1) unstable; urgency=low
 
   * Adjust icon settings.
