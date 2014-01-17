@@ -49,8 +49,7 @@ thunar --daemon &
 
 ## Detect and configure touchpad. See 'man synclient' for more info.
 if egrep -iq 'touchpad' /proc/bus/input/devices; then
-    synclient VertEdgeScroll=1 &
-    synclient TapButton1=1 &
+    synclient VertEdgeScroll=1 TapButton1=1 &
 fi
 
 ## Start xscreensaver
